@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git Repositories\\BrandNewTest\\TestProgram\\TestProgram.csproj": {}
+    "C:\\Git Repositories\\BrandNewTest\\TestProgram.csproj": {}
   },
   "projects": {
-    "C:\\Git Repositories\\BrandNewTest\\TestProgram\\TestProgram.csproj": {
+    "C:\\Git Repositories\\BrandNewTest\\TestProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git Repositories\\BrandNewTest\\TestProgram\\TestProgram.csproj",
+        "projectUniqueName": "C:\\Git Repositories\\BrandNewTest\\TestProgram.csproj",
         "projectName": "TestProgram",
-        "projectPath": "C:\\Git Repositories\\BrandNewTest\\TestProgram\\TestProgram.csproj",
+        "projectPath": "C:\\Git Repositories\\BrandNewTest\\TestProgram.csproj",
         "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-        "outputPath": "C:\\Git Repositories\\BrandNewTest\\TestProgram\\obj\\",
+        "outputPath": "C:\\Git Repositories\\BrandNewTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
